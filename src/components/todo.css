@@ -1,0 +1,17 @@
+.bg{
+    color: #3237fc;
+}
+.title{
+    text-align: center;
+}
+.noTask{
+    margin-top: 20px;
+}
+.errors{
+    color: red;
+    margin-top: 10px;
+}
+.taskColor{
+    color: darkgreen;
+    margin-top: 20px;
+}
